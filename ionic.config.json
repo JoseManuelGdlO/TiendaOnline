@@ -1,0 +1,7 @@
+{
+  "name": "TiendaOnlineAleshis",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
