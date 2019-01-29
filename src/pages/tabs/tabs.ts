@@ -123,7 +123,7 @@ export class TabsPage {
 
           }else{
            console.log("no Logeo");   
-            this.perfilLogBol=true;
+            this.perfilLogBol=true;    
             this.perfilBol=false;
           }   
            
